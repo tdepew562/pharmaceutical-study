@@ -41,9 +41,9 @@ Copy code
 pip install pandas
 
 ## How to Run
-Open your Python environment.
-Navigate to the project directory.
-Run the Python script: Tumor_Response_Analysis.ipynb.
+1. Open your Python environment.
+2. Navigate to the project directory.
+3. Run the Python script: Tumor_Response_Analysis.ipynb.
 
 ## Credits
 ### Acknowledegments
