@@ -45,8 +45,8 @@ Open your Python environment.
 Navigate to the project directory.
 Run the Python script: Tumor_Response_Analysis.ipynb.
 
-Credits
-## Acknowledegments
+## Credits
+### Acknowledegments
 
 Special thanks to [ChatGPT](https://www.openai.com/gpt) for providing assistance and guidance during the development of this project.
 
