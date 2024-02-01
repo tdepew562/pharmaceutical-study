@@ -36,9 +36,8 @@ Pandas library
 Installation
 To install the required libraries, use the following command in your terminal or command prompt:
 
-## bash
-Copy code
-pip install pandas
+## Installation
+To install the required libraries, use the following command in your terminal or command prompt: pip install pandas
 
 ## How to Run
 1. Open your Python environment.
