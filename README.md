@@ -1,4 +1,4 @@
-# pharmaceutical-study
+# Pharmaceutical-Study
 pharmaceutical study on mice
 ## Tumor-Response-Analysis
 
