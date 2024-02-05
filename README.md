@@ -8,33 +8,31 @@ This data analytics project focuses on analyzing the response of tumors to vario
 This data analytics project dives into the analysis of tumor response data, unraveling insights into the performance of different drug regimens. Leveraging Python and Pandas, the project explores district-wide and drug-specific performance metrics, providing a comprehensive understanding of the study's outcomes.
 
 ## Table of Contents
-Introduction
-Features
-Usage
-Requirements
-Installation
-How to Run
-Credits
+1. Introduction
+2. Features
+3. Usage
+4. Requirements
+5. Installation
+6. How to Run
+7. Credits
 
 ## Introduction
 The Tumor Response Analysis project scrutinizes the results of a preclinical study on tumor response, employing data analysis techniques. The Python script utilizes Pandas for handling and analyzing the data, offering a clear perspective on the effectiveness of various drug regimens.
 
 ## Features
-Python-based analysis using Pandas for robust data manipulation.
-Calculation of district-wide and drug-specific performance metrics.
-Identification of top-performing and bottom-performing drug regimens.
-Summary tables for easy interpretation and presentation.
+1. Python-based analysis using Pandas for robust data manipulation.
+2. Calculation of district-wide and drug-specific performance metrics.
+3. Identification of top-performing and bottom-performing drug regimens.
+4. Summary tables for easy interpretation and presentation.
 
 ## Usage
-Open your Python environment with the required libraries installed.
-Run the provided Python script: Tumor_Response_Analysis.ipynb.
-Explore the output for detailed insights into district-wide and drug-specific tumor response metrics.
+1. Open your Python environment with the required libraries installed.
+2. Run the provided Python script: Tumor_Response_Analysis.ipynb.
+3. Explore the output for detailed insights into district-wide and drug-specific tumor response metrics.
 
 ## Requirements
-Python 3
-Pandas library
-Installation
-To install the required libraries, use the following command in your terminal or command prompt:
+1. Python 3
+2. Pandas library
 
 ## Installation
 To install the required libraries, use the following command in your terminal or command prompt: pip install pandas
